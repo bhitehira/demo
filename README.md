@@ -1,2 +1,2 @@
 # demo
-i am hira
+this is my 2nd repo
